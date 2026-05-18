@@ -1,8 +1,2 @@
-colorama
-colorist
-datetime
 requests
-tls-client
-websocket-client
-uuid
-typing_extensions
+httpagentparser
